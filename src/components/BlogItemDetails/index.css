@@ -1,0 +1,16 @@
+.blog-item {
+  display: flex;
+  flex-direction: column;
+  padding: 10%;
+  gap: 25px;
+}
+
+.heading1 {
+  text-align: center;
+}
+
+.image4 {
+  height: 300px;
+  border-radius: 7px;
+  flex-shrink: 2;
+}
